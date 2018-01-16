@@ -1,4 +1,4 @@
-# AR Ramp up
+# AR Ramp up - Unity & Vuforia
 
 
 ## Prereqs:
@@ -14,14 +14,16 @@
 * Setup connections to external SDKS
 ![](./images/unity-prefrences.png)
 
-## New Project
-* Open up Unity & Create a new project
-* Delete current scene objects
-* Enable Vurforia & Add Vurforia AR camera asset to scene
+## New Project ([Follow this tutorial](https://www.youtube.com/watch?v=YvSrZqP0elQ))
 
+### Updates to tutorial:
+* Enable Vurforia & Add Vurforia AR camera asset to scene
 ![](./images/vuforia-ar-camera.png)
 
+* Create [Target in Vuforia](https://developer.vuforia.com/targetmanager/project/checkDeviceProjectsCreated?dataRequestedForUserId=) & Download for Unity Package
 
+* Import Asset Package to Unity Project
+![](./images/import-package.png)
 
 
 
@@ -36,7 +38,7 @@
 * [ARCore-101](https://haptic.al/arcore-101-fa6f93d4c003)
 * [Introduction to Mobile Augmented Reality Development in Unity](https://programminghistorian.org/lessons/intro-to-augmented-reality-with-unity)
 * [**Augmented Reality in Android with Google’s Face API**](https://www.raywenderlich.com/158580/augmented-reality-android-googles-face-api)
-
+* [10mins create a user-defined target AR app](https://www.youtube.com/watch?v=Uoa9Ha4De98)
 
 ## Assets
 * [Google poly](https://poly.google.com/)
@@ -47,6 +49,7 @@
 * [Vuforia Tools](https://developer.vuforia.com/downloads/tool)
 * [ARToolkit](https://www.artoolkit.org/)
 * [**Unity Manual**](https://docs.unity3d.com/Manual/UsingTheEditor.html)
+* [User Defined Targets](https://library.vuforia.com/articles/Training/User-Defined-Targets-Guide)
 
 ## Environments
 
