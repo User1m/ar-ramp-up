@@ -17,6 +17,10 @@
 ## New Project ([Follow this tutorial](https://www.youtube.com/watch?v=YvSrZqP0elQ))
 
 ### Updates to tutorial:
+
+* Enable Vuforia Player Settings
+![](./images/enable-vuforia-player-settings.png)
+
 * Enable Vurforia & Add Vurforia AR camera asset to scene
 ![](./images/vuforia-ar-camera.png)
 
@@ -24,6 +28,12 @@
 
 * Import Asset Package to Unity Project
 ![](./images/import-package.png)
+
+* `ARCamera` settings and configuration
+
+![](./images/ar-cam-settings.png)
+![](./images/ar-cam-configurations.png)
+
 
 
 
