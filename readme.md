@@ -18,6 +18,8 @@
 
 ### Updates to tutorial:
 
+#### *Careful to not make your marker too large or too small. Try to scale it to the size of the actual object*
+
 * Enable Vuforia Player Settings
 ![](./images/enable-vuforia-player-settings.png)
 
@@ -35,6 +37,10 @@
 ![](./images/ar-cam-configurations.png)
 
 
+
+## Unity Tips
+* **Center view at object:** Select the object in the Hierarchy view, then put your cursor over the Scene view and press F.
+* 
 
 
 
