@@ -4,8 +4,8 @@
 ## Prereqs:
 
 * [Unity Download Assistant](https://unity3d.com/unity/qa/patch-releases?version=2017.3)
+	* [Vuforia AR SDK](https://developer.vuforia.com/downloads/sdk) - integrated with the latest Unity Editor
 * [Vuforia account](https://developer.vuforia.com/)
-* [Vuforia AR SDK](https://developer.vuforia.com/downloads/sdk)
 
 ## Setup
 * Download and install Unity w/ the Vuforia AR Extention
@@ -18,7 +18,7 @@
 
 ### Updates to tutorial:
 
-#### *Careful to not make your marker too large or too small. Try to scale it to the size of the actual object*
+#### *Careful to not resizie your marker (in unity) to be too large or too small. Try to scale it to the size of the actual object or a bit smaller.*
 
 * Enable Vuforia Player Settings
 ![](./images/enable-vuforia-player-settings.png)
