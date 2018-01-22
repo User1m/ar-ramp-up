@@ -54,11 +54,11 @@
 * [Unity ARCore Tutorial](https://www.youtube.com/watch?v=bJDEAQADi0U)
 * [Open Hello Google ARCore sample project](https://www.youtube.com/watch?v=g6UgzFP36bw)
 * [ARCore-101](https://haptic.al/arcore-101-fa6f93d4c003)
-* [Introduction to Mobile Augmented Reality Development in Unity](https://programminghistorian.org/lessons/intro-to-augmented-reality-with-unity)
 * [**Augmented Reality in Android with Google’s Face API**](https://www.raywenderlich.com/158580/augmented-reality-android-googles-face-api)
 * [10mins create a user-defined target AR app](https://www.youtube.com/watch?v=Uoa9Ha4De98)
 * [Unity - Move a Cube with the Arrow Keys](https://www.youtube.com/watch?v=sXQI_0ILEW4)
 * [**Unity C# Scripting**](https://unity3d.com/learn/tutorials/s/scripting)
+* [3D Ball & Maze](https://www.youtube.com/watch?v=uXNjNcqW4kY)
 
 ### Text:
 * [Augmented-Reality-Tutorial-Android](http://www.instructables.com/id/Augmented-Reality-Tutorial-PizzaSalad-Android/)
@@ -78,11 +78,15 @@
 * [ARToolkit](https://www.artoolkit.org/)
 * [**Unity Manual**](https://docs.unity3d.com/Manual/UsingTheEditor.html)
 * [User Defined Targets](https://library.vuforia.com/articles/Training/User-Defined-Targets-Guide)
-* [**REST in Unity**](https://answers.unity.com/questions/11021/how-can-i-send-and-receive-data-to-and-from-a-url.html)
+* [**REST Calls in Unity**](https://answers.unity.com/questions/11021/how-can-i-send-and-receive-data-to-and-from-a-url.html)
 * [Text Reco Word List](https://developer.vuforia.com/forum/unity/standard-wordlist-download)
 * [Text-Tracking - OLD](http://www.himix.lt/augmented-reality/augmented-reality-text-tracking/)
 * [Android - DeepLink Application](https://youtu.be/Pxu7i8sWUjQ?t=2m14s) - [StackOverFlow](https://stackoverflow.com/questions/525063/android-respond-to-url-in-intent)
 * [Play Audio Clip in Code](https://answers.unity.com/questions/12546/playing-audio-clip.html)
+* [Introduction to Mobile Augmented Reality Development in Unity](https://programminghistorian.org/lessons/intro-to-augmented-reality-with-unity)
+* [**Build Game GUI in Unity**](https://unity-tutorials.blogspot.jp/)
+* [**Preparing Unity project for Git**](https://stackoverflow.com/a/21573406)
+
 
 ## Environments
 
